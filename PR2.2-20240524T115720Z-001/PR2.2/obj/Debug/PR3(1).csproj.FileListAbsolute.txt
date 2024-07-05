@@ -1,0 +1,57 @@
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\bin\Debug\PR3(1).exe.config
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\bin\Debug\PR3(1).exe
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\bin\Debug\PR3(1).pdb
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3(1).csproj.AssemblyReference.cache
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3_1_.Form1.resources
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3_1_.Form2.resources
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3_1_.Properties.Resources.resources
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3(1).csproj.GenerateResource.cache
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3(1).csproj.CoreCompileInputs.cache
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3(1).exe
+C:\Users\Irish\Downloads\PR3(1)-20240428T114842Z-001\PR3(1)\obj\Debug\PR3(1).pdb
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\bin\Debug\PR3(1).exe.config
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\bin\Debug\PR3(1).exe
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\bin\Debug\PR3(1).pdb
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).csproj.AssemblyReference.cache
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3_1_.Form1.resources
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3_1_.Form2.resources
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3_1_.Properties.Resources.resources
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).csproj.GenerateResource.cache
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).csproj.CoreCompileInputs.cache
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).exe
+D:\Users\1213-12\Downloads\PR3(1)-20240502T093412Z-001\PR3(1)\obj\Debug\PR3(1).pdb
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\bin\Debug\PR3(1).exe.config
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\bin\Debug\PR3(1).exe
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\bin\Debug\PR3(1).pdb
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).csproj.AssemblyReference.cache
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3_1_.Form1.resources
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3_1_.Form2.resources
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3_1_.Properties.Resources.resources
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).csproj.GenerateResource.cache
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).csproj.CoreCompileInputs.cache
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).exe
+D:\Users\1213-12\Documents\2-ИСП\Разработка КИС\Холодкова Ирина\PR3(1)\obj\Debug\PR3(1).pdb
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\bin\Debug\PR3(1).exe.config
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\bin\Debug\PR3(1).exe
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\bin\Debug\PR3(1).pdb
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3(1).csproj.AssemblyReference.cache
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3_1_.Form1.resources
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3_1_.Form2.resources
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3_1_.Properties.Resources.resources
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3(1).csproj.GenerateResource.cache
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3(1).csproj.CoreCompileInputs.cache
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3(1).exe
+C:\Users\Irish\Downloads\PR3(1)-20240515T162548Z-001\PR3(1)\obj\Debug\PR3(1).pdb
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\bin\Debug\PR3(1).exe.config
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\bin\Debug\PR3(1).exe
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\bin\Debug\PR3(1).pdb
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3(1).csproj.AssemblyReference.cache
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3_1_.Form1.resources
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3_1_.Form2.resources
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3_1_.Properties.Resources.resources
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3(1).csproj.GenerateResource.cache
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3(1).csproj.CoreCompileInputs.cache
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3(1).exe
+D:\Users\1213-13\Downloads\PR2.2-20240524T115720Z-001\PR2.2\obj\Debug\PR3(1).pdb
